@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.ytg123.rtlfix.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [],
+  "mixins": ["ServerPlayNetworkHandlerMixin"],
   "client": [],
   "server": [],
   "injectors": {
